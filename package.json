@@ -1,0 +1,21 @@
+{
+  "name": "uni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "micromark-extension-mdxjs": "^3.0.0",
+    "mdast-util-mdx": "^3.0.0",
+    "mdast-util-from-markdown": "^2.0.0",
+    "mdast-util-to-markdown": "^2.1.0",
+    "@mdx-js/mdx": "^3.0.1",
+    "@mdx-js/mdxast": "^1.1.1"
+  }
+}
